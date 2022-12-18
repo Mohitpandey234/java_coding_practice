@@ -1,0 +1,23 @@
+DAY 1: 
+
+5 Array question here:
+
+1. write a code to find min and max value present in a array.
+
+ans: Main.java
+
+2. write a code with functions to find min and max value present in a array.
+
+ans: maxminfun.java
+
+3. write a code to reverse a array and print it.
+
+ans: Reverse.java
+
+4. write a code to swap alternative values in a array.
+
+ans: swapalternatives.java
+
+5. There is array of size odd number, with each element present twice , write a code to find the unique element present in the array.
+
+ans: unique.java
